@@ -11,6 +11,7 @@ import { LoginComponent } from './auth/login/login.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { SideNavComponent } from './general/side-nav/side-nav.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
